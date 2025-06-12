@@ -1,6 +1,6 @@
 # Hi there, I'm Rohith Reddy! 👋
 
-![Profile Picture](https://avatars.githubusercontent.com/u/your-github-user-id?v=4)
+
 
 🎓 **Student at NIT Kurukshetra**  
 🤖 **Robotics Engineer** passionate about software roles  
