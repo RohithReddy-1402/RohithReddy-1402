@@ -35,7 +35,7 @@ A web platform to access and share question papers—designed to help students p
 ## 📫 How to reach me
 
 - [GitHub](https://github.com/RohithReddy-1402)
-- [Instagram](https://www.instagram.com/stark_14_rohith/)
+- [Instagram](https://www.instagram.com/itz_stark_14)
 - [Linkedin](https://www.linkedin.com/in/rohith-kumar-reddy-s-367b31278/)
 
 ---
